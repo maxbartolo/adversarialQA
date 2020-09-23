@@ -10,22 +10,22 @@ Version 1.0 is available here: https://dl.fbaipublicfiles.com/adversarialQA/aqa_
 
 If you want to have your model added to the leaderboard, please reach out to us.
 
-Model | Reference | Overall (F_1)
+Model | Reference | Overall (F1)
 ---|---|---
-RoBERTa | [Liu et al., 2019](https://arxiv.org/abs/1907.11692) | 64.4%
-BERT | [Devlin et al., 2018](https://arxiv.org/abs/1810.04805) | 62.7%
+RoBERTa-Large | [Liu et al., 2019](https://arxiv.org/abs/1907.11692) | 64.4%
+BERT-Large | [Devlin et al., 2018](https://arxiv.org/abs/1810.04805) | 62.7%
 BiDAF | [Seo et al., 2016](https://arxiv.org/abs/1611.01603) | 28.5%
 
 ## Implementation
 
-For training and evaluating BiDAF models, we use [AllenNLP](https://allennlp.org/)
+For training and evaluating BiDAF models, we use [AllenNLP](https://allennlp.org/).
 
-For training and evaluating BERT and RoBERTa models, we use [Transformers](https://huggingface.co/transformers/)
+For training and evaluating BERT and RoBERTa models, we use [Transformers](https://huggingface.co/transformers/).
 
 We welcome researchers from various fields (linguistics, machine learning, cognitive science, psychology, etc.) to work on adversarialQA.
 You can use the code to reproduce the results in our paper or even as a starting point for your research.
 
-An important detail in our experiments is that for some experiments we combine the datasets we collect with [SQuAD v1.1](https://arxiv.org/abs/1606.05250).
+We use [SQuAD v1.1](https://arxiv.org/abs/1606.05250) as training data for the adversarial models used in the data collection process. We also combine this dataset with the datasets we collect for some of our experiments.
 
 
 ## Other References
