@@ -6,6 +6,11 @@
 ## Dataset
 Version 1.0 is available here: https://dl.fbaipublicfiles.com/adversarialQA/aqa_v1.0.zip.
 
+For further details see [adversarialQA.github.io](https://adversarialQA.github.io)
+
+![Demo Image](https://adversarialqa.github.io/img/demo.gif)
+
+
 ## Leaderboard
 
 If you want to have your model added to the leaderboard, please reach out to us.
