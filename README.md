@@ -8,7 +8,7 @@ Version 1.0 is available here: https://dl.fbaipublicfiles.com/dynabench/qa/aqa_v
 
 For further details see [adversarialQA.github.io](https://adversarialQA.github.io)
 
-![Demo Image](https://adversarialqa.github.io/img/demo.gif)
+![Demo Image](https://github.com/adversarialQA/adversarialQA.github.io/raw/main/img/demo.gif)
 
 
 ## Leaderboard
