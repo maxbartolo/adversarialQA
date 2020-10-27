@@ -13,7 +13,7 @@ For further details see [adversarialQA.github.io](https://adversarialQA.github.i
 
 ## Leaderboard
 
-If you want to have your model added to the leaderboard, please reach out to us.
+If you want to have your model added to the leaderboard, please submit your model predictions to the live leaderboard on [**Dynabench**](https://dynabench.org/tasks/2#1).
 
 Model | Reference | Overall (F1)
 ---|---|---
