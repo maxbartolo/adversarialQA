@@ -52,4 +52,4 @@ We use the following resources in training our models used for adversarial human
 ```
 
 ## License
-AdversarialQA is licensed under Creative Commons-Non Commercial 4.0. See the LICENSE file for details.
+AdversarialQA is licensed under the MIT License. See the LICENSE file for details.
